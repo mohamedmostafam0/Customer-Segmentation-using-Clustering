@@ -5,7 +5,7 @@ This project focuses on customer segmentation using machine learning techniques 
 
 ## Project Contents
 - **Jupyter Notebook (`customer_segmentation.ipynb`)**: The entire project, including data preprocessing, exploratory data analysis (EDA), model implementation, and insights, is documented inside the Jupyter notebook. 
-- **Dataset (`data.csv`)**: The dataset used for segmentation analysis (if applicable).
+- **Dataset (`Mall_Customers.csv`)**: The dataset used for segmentation analysis (if applicable).
 - **Requirements (`requirements.txt`)**: A list of dependencies required to run the project.
 - **README (`README.md`)**: This file, providing an overview of the project.
 
