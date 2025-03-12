@@ -10,7 +10,7 @@ This project focuses on customer segmentation using machine learning techniques 
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-repo/customer-segmentation.git](https://github.com/mohamedmostafam0/Customer-Segmentation-using-Clustering.git
+   git clone https://github.com/your-repo/customer-segmentation.git](https://github.com/mohamedmostafam0/Customer-Segmentation-using-Clustering.git
    cd Customer-Segmentation-using-Clustering
   
 2. Follow the detailed step-by-step documentation inside the notebook to understand the methodology, implementation, and findings.
